@@ -1,0 +1,44 @@
+# 👋 Hi, I'm Leean
+
+🎓 International Business Graduate (First Class)  
+📊 Aspiring Business / Commercial / Financial Analyst  
+📍 Based in the UK  
+
+I’m building a portfolio focused on financial analysis, data-driven decision-making, and business insights using Excel and SQL.
+
+---
+
+## 📊 Excel Projects
+
+- 📈 [Superstore Sales Analysis](https://github.com/Leean-m/superstore-sales-analysis)
+- 💳 [Cash Flow & Financial Planning Analysis](https://github.com/Leean-m/cash-flow-financial-planning-analysis)
+
+---
+
+## 🧮 SQL Projects
+
+- 🧾 [Customer Spending & Risk Analysis](https://github.com/Leean-m/customer-spending-risk-analysis)
+- 📊 [Financial Case Study (Coming Soon)]
+
+---
+
+## 🛠 Skills
+
+- Excel (Advanced: Pivot Tables, Power Query, Dashboards)  
+- SQL (MySQL: SELECT, JOIN, GROUP BY, CASE)  
+- Data Analysis & Financial Modelling  
+- Business & Commercial Analysis  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/leean-mandari-22a378259/)
+
+---
+
+## 🚀 Current Focus
+
+- Building a strong analytical portfolio  
+- Developing financial and commercial analysis skills  
+- Preparing for entry-level analyst roles in finance  
