@@ -18,7 +18,7 @@ I’m building a portfolio focused on financial analysis, data-driven decision-m
 ## 🧮 SQL Projects
 
 - 🧾 [Customer Spending & Risk Analysis](https://github.com/Leean-m/customer-spending-risk-analysis)
-- 📊 [Financial Case Study (Coming Soon)]
+- 📊 [Fraud Risk Analysis](https://github.com/Leean-m/Fraud_Risk_Analysis)
 
 ---
 
