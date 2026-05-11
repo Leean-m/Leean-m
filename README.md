@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Leean
 
 🎓 International Business Graduate (First Class)  
-📊 Aspiring Commercial / Financial Analyst  
+📊 Aspiring Commercial Analyst  
 📍 Based in the UK  
 
-I’m building a portfolio focused on financial analysis, data-driven decision-making, and business insights using Excel and SQL.
+I am building a portfolio focused on commercial performance analysis, sales reporting, and financial insight generation using Excel and SQL. My projects explore profitability, customer behaviour, KPI tracking, and business performance to support data-driven decision-making
 
 ---
 
@@ -26,7 +26,6 @@ I’m building a portfolio focused on financial analysis, data-driven decision-m
 
 - Excel (Advanced: Pivot Tables, Power Query, Dashboards)  
 - SQL (MySQL: SELECT, JOIN, GROUP BY, CASE)  
-- Data Analysis & Financial Modelling  
 - Business & Commercial Analysis  
 
 ---
@@ -41,4 +40,4 @@ I’m building a portfolio focused on financial analysis, data-driven decision-m
 
 - Building a strong analytical portfolio  
 - Developing financial and commercial analysis skills  
-- Preparing for entry-level analyst roles 
+- Preparing for entry-level commercial analyst roles 
